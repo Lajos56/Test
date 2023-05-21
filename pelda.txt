@@ -2,4 +2,7 @@ elso sor
 masodik sor
 harmadik sor
 negyedik sor
-ötödik sor
+huszonötödik sor
+hatodik sor
+
+
