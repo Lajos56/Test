@@ -4,3 +4,4 @@ harmadik sor
 negyedik sor
 ötödik sor
 hatodik sor
+hetedik sor
