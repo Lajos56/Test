@@ -1,5 +1,9 @@
 elso sor
+<<<<<<< HEAD
 negyvenmasodik sor
+=======
+huszonkettedik sor
+>>>>>>> 25cd4b4a534011b02564ede460c61a2e5352d9ad
 harmadik sor
 negyedik sor
 ötödik sor
