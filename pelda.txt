@@ -1,5 +1,5 @@
 elso sor
-masodik sor
+negyvenmasodik sor
 harmadik sor
 negyedik sor
 ötödik sor
