@@ -1,0 +1,3 @@
+Ez egy kozonseges text file
+Most valtozott a szoveg
+Harmadik sor
